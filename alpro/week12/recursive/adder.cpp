@@ -1,6 +1,9 @@
 /*
     Nama    : Almaas Izdihar Sant
     NIM     : 4611422076
+
+    latihan (rekursif)
+    Menjumlahkan angka dari 1 sampai n.
 */
 
 #include <iostream>

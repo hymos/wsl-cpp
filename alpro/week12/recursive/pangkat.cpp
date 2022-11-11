@@ -1,6 +1,9 @@
 /*
     Nama    : Almaas Izdihar Sant
     NIM     : 4611422076
+
+    latihan (rekursif)
+    Menghitung hasil dari x pangkat y.
 */
 
 #include <iostream>

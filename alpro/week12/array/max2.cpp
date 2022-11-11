@@ -1,6 +1,10 @@
 /*
     Nama    : Almaas Izdihar Sant
     NIM     : 4611422076
+
+    latihan (array)
+    Buat program untuk menentukan angka tertinggi kedua
+    dari sekumpulan angka di dalam array
 */
 
 #include <iostream>
