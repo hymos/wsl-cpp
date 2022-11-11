@@ -1,3 +1,8 @@
+/*
+    Nama    : Almaas Izdihar Sant
+    NIM     : 4611422076
+*/
+
 #include <iostream>
 
 using namespace std;
