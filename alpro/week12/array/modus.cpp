@@ -2,7 +2,7 @@
     Nama    : Almaas Izdihar Sant
     NIM     : 4611422076
 
-    latihan
+    latihan 
     Buat program untuk menentukan angka yang paling banyak 
     muncul dari sekumpulan angka di dalam array
 */
