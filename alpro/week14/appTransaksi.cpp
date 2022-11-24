@@ -35,6 +35,11 @@ int main ()
 
   while (true)
   {
+    if (n > 1000) {
+      cout << "> data sudah penuh" << endl;
+      break;
+    }
+
     cout 
     << "                        " << endl
     << "======= APP MENU =======" << endl
