@@ -1,3 +1,11 @@
+/*
+    Nama    : Almaas Izdihar Sant
+    NIM     : 4611422076
+
+    Tugas Mandiri Materi Record (Struct) (Tugas Individu)
+*/
+
+
 #include <iostream>
 #include <unistd.h>
 
