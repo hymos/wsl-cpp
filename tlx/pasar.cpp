@@ -12,7 +12,7 @@ int main () {
         cin >> pedagang[i];
     }
 
-    //cek nilai terbesar
+    //cek nilai terbesar -
     int max = pedagang[0];
     for (int i = 0; i < jmlPedangang -1 ; i++) {
         if (pedagang[i] < pedagang[i+1]) max = pedagang[i+1];
